@@ -1,5 +1,5 @@
 # Articles
-Essays|Analytical Writing|Data Point|Explanatory Data Analysis
+Essays|Analytical Writing|Data Point|Explanatory Data Analysis \\
 This repository is collection my independent writings, including essays, analytical writing, data points, and explanatory data analysis. The files in this repo are organized as follows:
 
 ##Essays
